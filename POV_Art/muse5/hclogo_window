@@ -1,0 +1,124 @@
+
+// Persistence of Vision Ray Tracer Scene Description File
+// File: ?.pov
+// Vers: 3
+// Desc: Checkered Floor Example
+// Date: mm/dd/yy
+// Auth: ?
+//
+
+#version 3
+
+#include "colors.inc"
+#include "textures.inc"
+#include "shapes.inc"
+#include "metals.inc"
+
+
+global_settings
+{
+  assumed_gamma 2.2
+}
+
+// ----------------------------------------
+camera
+{
+  location  <0.0, 0.5, -40.0>
+  direction 1.5*z
+  right     4/3*x
+  look_at   <0.0, 0.0,  0.0>
+}
+
+sky_sphere
+{
+  pigment
+  {
+    gradient y
+    color_map { [0.0 color blue 0.6] [1.0 color rgb 1] }
+  }
+}
+
+/*
+light_source
+{
+  0*x // light's position (translated below)
+  color red .7  green .7  blue .7  // light's color
+  translate <-30, 30, -30>
+}
+*/
+light_source
+{
+  0*x // light's position (translated below)
+  color red 1.0  green 1.0  blue 1.0  // light's color
+  translate <0, 10, 30>
+}
+// ----------------------------------------
+plane
+{
+  y, -10
+  texture
+  {
+    pigment {checker color rgb 1 color blue 1 scale 0.5}
+    finish {reflection 0.2}
+  }
+}
+
+// sphere { 0.0, 1 texture {pigment {radial frequency 8} finish{specular 1}} }
+
+#declare logo_plane = object {
+ plane
+ {
+  z, -.01
+  texture
+  {
+    pigment
+    {
+      image_map
+      {
+        png "hclogo.png"
+        interpolate 2 // smooth it
+        once   // don't tile image, just one copy
+ //       filter 0 0.8  // make 1st color mostly transparent
+ //       filter 1 0.8  // make 2nd color mostly transparent
+          filter all .95
+      }
+      // transform it to unit-size (-1 to +1)
+      translate -0.5*(x+y) // center on the origin
+      scale 2              // make it unit-sized
+    }
+    finish {Shiny}
+  }
+ }
+}
+#declare shiny_gold = texture {pigment { BrightGold } finish { Metal } }
+#declare _redmetal = texture {pigment {color Orange} finish {Metal}}
+#declare _bluemetal = texture {pigment {color LightBlue} finish {Metal}}
+
+#declare ring = object {
+  // torus {MAJOR, MINOR} // (in the X-Z plane)
+// MAJOR = float value giving the major radius
+// MINOR = float specifying the minor radius
+// The major radius extends from the center of the hole
+// to the mid-line of the rim while the minor radius
+// is the radius of the cross-section of the rim.
+torus
+{  .99,  0.017}
+  texture {_bluemetal}
+  rotate x*90 }
+
+
+#declare logo_disk = object {
+  union{
+     intersection {
+         object {logo_plane}
+         cylinder { 0*z,-.02*z,1 open}
+     }
+
+    object {ring}
+  }
+  rotate x * 0  // now oriented with Y up.
+ }
+
+object {logo_disk scale 10 translate <0,0,15>}
+
+

@@ -1,0 +1,1638 @@
+#Inventor V2.1 ascii
+
+Separator {
+    Complexity {
+	type	SCREEN_SPACE
+	value	0.8
+    }
+    Group {
+	Transform {
+	    translation	-9.09091e-05 9.09091e-05 9.09091e-05
+	}
+	Group {
+	    Separator {
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-3.158 1.079 0.23
+		}
+		Sphere {
+		    radius	0.462
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-3.355 1.988 0.709
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-4.18 0.072 -0.013
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-4.726 -0.209 0.903
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-4.895 0.431 -0.761
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-3.328 -1.085 -0.607
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-3.664 -1.384 -1.614
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-3.298 -1.965 0.054
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-2.015 -0.464 -0.643
+		}
+		Sphere {
+		    radius	0.462
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-1.184 -0.954 -1.013
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-1.967 0.741 -0.16
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-0.902 1.487 -0.072
+		}
+		Sphere {
+		    radius	0.462
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-0.979 2.442 0.297
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.322 1.045 -0.424
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	1.108 0.383 0.533
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.593 0.036 1.94
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	1.289 0.457 2.679
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.494 -1.501 2.125
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-0.399 0.474 2.13
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.781 1.275 -1.73
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.128 1.765 -2.445
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	2.069 0.889 -2.121
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	2.433 1.046 -3.131
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	2.405 0.049 0.143
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	2.861 0.285 -1.146
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	4.119 -0.18 -1.244
+		}
+		Sphere {
+		    radius	0.462
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	4.684 -0.223 -2.108
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	4.482 -0.682 -0.042
+		}
+		Sphere {
+		    radius	0.555
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	5.438 -1.128 0.211
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	3.431 -0.533 0.798
+		}
+		Sphere {
+		    radius	0.462
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.076 -1.746 3.114
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	1.494 -1.954 2.054
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-0.154 -1.939 1.351
+		}
+		Sphere {
+		    radius	0.36
+		}
+	    }
+	}
+	Group {
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-0.0207084 -1.8489 1.51021
+		    rotation	-0.766758 0 0.641937  1.98018
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.452687
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.303292 -1.6299 1.89721
+		    rotation	-0.766758 0 0.641937  1.98018
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.647687
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	1.28831 -1.86082 2.0686
+		    rotation	-0.0708217 0 -0.997489  1.9952
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.452557
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.788314 -1.63432 2.1041
+		    rotation	-0.0708217 0 -0.997489  1.9952
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.647557
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.161997 -1.6956 2.91053
+		    rotation	0.921109 0 0.389306  1.79514
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.453152
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.370997 -1.5731 2.41603
+		    rotation	0.921109 0 0.389306  1.79514
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.648152
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	3.6757 -0.567691 0.602428
+		    rotation	0.624332 0 0.781159  1.4605
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.630331
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	4.2012 -0.642191 0.182428
+		    rotation	0.624332 0 0.781159  1.4605
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.723331
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	3.19218 -0.397529 0.645537
+		    rotation	0.538098 0 -0.842883  2.01679
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.628116
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	2.67918 -0.106529 0.318037
+		    rotation	0.538098 0 -0.842883  2.01679
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.721116
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	5.24196 -1.03654 0.159119
+		    rotation	0.255837 0 -0.96672  1.99448
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.444916
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	4.76396 -0.813542 0.0326193
+		    rotation	0.255837 0 -0.96672  1.99448
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.639916
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	4.38501 -0.547869 -0.363167
+		    rotation	0.957299 0 -0.289101  1.95113
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.722624
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	4.20351 -0.296869 -0.964167
+		    rotation	0.957299 0 -0.289101  1.95113
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.629624
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	4.55669 -0.213311 -1.91332
+		    rotation	-0.836935 0 -0.547301  1.61243
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.465616
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	4.27419 -0.191811 -1.48132
+		    rotation	-0.836935 0 -0.547301  1.61243
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.567616
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	3.82625 -0.0717895 -1.22119
+		    rotation	-0.0776661 0 -0.996979  1.92387
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.625883
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	3.19725 0.16071 -1.17219
+		    rotation	-0.0776661 0 -0.996979  1.92387
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.718883
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	2.633 0.167 -0.5015
+		    rotation	-0.942747 0 -0.333509  1.39987
+		}
+		Cylinder {
+		    radius	0.2
+		    height	1.3875
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	2.465 0.587 -1.6335
+		    rotation	0.776187 0 -0.630503  2.019
+		}
+		Cylinder {
+		    radius	0.2
+		    height	1.39381
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	1.7565 0.216 0.338
+		    rotation	-0.287957 0 -0.957643  1.81258
+		}
+		Cylinder {
+		    radius	0.2
+		    height	1.39494
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	2.35835 1.0138 -2.92388
+		    rotation	-0.940769 0 -0.339049  1.42559
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.445005
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	2.17635 0.935304 -2.41888
+		    rotation	-0.940769 0 -0.339049  1.42559
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.640005
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	1.425 1.082 -1.9255
+		    rotation	-0.290482 0 -0.956881  1.85007
+		}
+		Cylinder {
+		    radius	0.2
+		    height	1.40029
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.261916 1.66451 -2.29837
+		    rotation	-0.738396 0 0.674367  1.10233
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.445117
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.588416 1.41951 -1.94087
+		    rotation	-0.738396 0 0.674367  1.10233
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.640117
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.5515 1.16 -1.077
+		    rotation	-0.94343 0 -0.331573  1.40615
+		}
+		Cylinder {
+		    radius	0.2
+		    height	1.40329
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-0.194927 0.383895 2.09091
+		    rotation	0.188113 0 0.982147  1.16162
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.452956
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.301073 0.164895 1.99591
+		    rotation	0.188113 0 0.982147  1.16162
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.647956
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.5435 -0.7325 2.0325
+		    rotation	0.881692 0 0.471825  3.00592
+		}
+		Cylinder {
+		    radius	0.2
+		    height	1.55126
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	1.14587 0.370425 2.52703
+		    rotation	0.727969 0 -0.68561  1.17767
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.451995
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.797874 0.159925 2.15753
+		    rotation	0.727969 0 -0.68561  1.17767
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.646995
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.8505 0.2095 1.2365
+		    rotation	0.93907 0 0.343725  1.79838
+		}
+		Cylinder {
+		    radius	0.2
+		    height	1.53795
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	0.715 0.714 0.0545
+		    rotation	0.772769 0 -0.634688  2.06171
+		}
+		Cylinder {
+		    radius	0.2
+		    height	1.40424
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-0.00510931 1.16312 -0.329929
+		    rotation	-0.27638 0 -0.961048  1.90484
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.720563
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-0.617109 1.38412 -0.153929
+		    rotation	-0.27638 0 -0.961049  1.90484
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.627563
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-0.961662 2.22697 0.213915
+		    rotation	0.978914 0 0.204272  0.375938
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.462351
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-0.923162 1.74947 0.0294148
+		    rotation	0.978914 0 0.204272  0.375938
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.56435
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-1.14925 1.31381 -0.0924301
+		    rotation	0.0823485 0 -0.996604  0.961353
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.60513
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-1.68175 0.940809 -0.13643
+		    rotation	0.0823485 0 -0.996604  0.961353
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.69813
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-1.97986 0.418184 -0.289394
+		    rotation	0.995098 0 -0.0988917  0.382922
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.696042
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-2.00386 -0.184316 -0.530894
+		    rotation	0.995098 0 -0.0988917  0.382922
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.603042
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-2.28608 0.831554 -0.0555143
+		    rotation	-0.311196 0 -0.950346  1.83423
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.695504
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-2.88158 1.00055 0.139486
+		    rotation	-0.311196 0 -0.950346  1.83423
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.602504
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-1.37124 -0.843593 -0.929632
+		    rotation	-0.40675 0 -0.913539  2.0649
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.465614
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-1.78674 -0.598593 -0.744632
+		    rotation	-0.40675 0 -0.913539  2.0649
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.567614
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-2.32224 -0.609312 -0.634576
+		    rotation	-0.0274078 0 -0.999624  1.12916
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.679948
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-2.97874 -0.919812 -0.616576
+		    rotation	-0.0274078 0 -0.999624  1.12916
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.772948
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-3.30417 -1.78396 -0.0819825
+		    rotation	0.998972 0 -0.0453391  2.49687
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.453005
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-3.31917 -1.34396 -0.412483
+		    rotation	0.998972 0 -0.0453391  2.49687
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.648005
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-3.59485 -1.32247 -1.40676
+		    rotation	-0.948589 0 0.31651  1.84534
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.45394
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-3.42685 -1.17297 -0.903262
+		    rotation	-0.948589 0 0.31651  1.84534
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.64894
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-3.754 -0.5065 -0.31
+		    rotation	-0.571911 0 -0.820316  2.41006
+		}
+		Cylinder {
+		    radius	0.2
+		    height	1.5548
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-4.74807 0.357229 -0.607293
+		    rotation	-0.722873 0 0.690981  1.23685
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.450134
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-4.39057 0.177729 -0.233293
+		    rotation	-0.722873 0 0.690981  1.23685
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.645134
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-4.61364 -0.151172 0.714493
+		    rotation	0.858979 0 0.512011  1.82845
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.453892
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-4.34064 -0.010672 0.256493
+		    rotation	0.858979 0 0.512011  1.82845
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.648892
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-3.90817 0.339839 0.0516325
+		    rotation	-0.23132 0 0.972878  2.33506
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.774096
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-3.39717 0.843339 0.173132
+		    rotation	-0.23132 0 0.972878  2.33506
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.681096
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-3.31055 1.78291 0.600925
+		    rotation	0.924838 0 0.380361  0.517901
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.472099
+		}
+	    }
+	    Separator {
+		DrawStyle {
+		    style	FILLED
+		}
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Transform {
+		    translation	-3.21205 1.32841 0.361425
+		    rotation	0.924838 0 0.380361  0.517901
+		}
+		Cylinder {
+		    radius	0.2
+		    height	0.574099
+		}
+	    }
+	}
+    }
+}

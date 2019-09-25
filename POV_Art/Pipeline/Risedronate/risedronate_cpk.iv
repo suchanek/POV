@@ -1,0 +1,393 @@
+#Inventor V2.1 ascii
+
+Separator {
+    Complexity {
+	type	SCREEN_SPACE
+	value	0.8
+    }
+    Group {
+	Transform {
+	    translation	1.64477e-17 -7.40741e-05 7.40741e-05
+	}
+	Group {
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-0.942 0.277 -0.65
+		}
+		Sphere {
+		    radius	1.85
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-1.662 -0.876 -0.979
+		}
+		Sphere {
+		    radius	1.85
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-3 -0.983 -0.598
+		}
+		Sphere {
+		    radius	1.85
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-3.607 0.078 0.078
+		}
+		Sphere {
+		    radius	1.85
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.3 0.3 0.78
+		    diffuseColor	0.3 0.3 0.78
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-2.915 1.217 0.328
+		}
+		Sphere {
+		    radius	1.54
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-1.6 1.32 0.01
+		}
+		Sphere {
+		    radius	1.85
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.551 0.388 -0.973
+		}
+		Sphere {
+		    radius	1.85
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-1.184 -1.695 -1.509
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-3.561 -1.886 -0.821
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-4.64 -0.012 0.403
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-1.051 2.218 0.275
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.2 0.2 0.2
+		    diffuseColor	0.2 0.2 0.2
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	1.362 0.294 0.339
+		}
+		Sphere {
+		    radius	1.85
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	1 0.7 0
+		    diffuseColor	1 0.7 0
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	3.132 0.097 -0.152
+		}
+		Sphere {
+		    radius	1.9
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	1 0.7 0
+		    diffuseColor	1 0.7 0
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.808 -1.206 1.28
+		}
+		Sphere {
+		    radius	1.9
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.9 0.14 0.14
+		    diffuseColor	0.9 0.14 0.14
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	4.091 0.319 0.966
+		}
+		Sphere {
+		    radius	1.4
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.9 0.14 0.14
+		    diffuseColor	0.9 0.14 0.14
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-0.667 -1.217 1.497
+		}
+		Sphere {
+		    radius	1.4
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.9 0.14 0.14
+		    diffuseColor	0.9 0.14 0.14
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	1.445 -1.318 2.621
+		}
+		Sphere {
+		    radius	1.4
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.9 0.14 0.14
+		    diffuseColor	0.9 0.14 0.14
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	3.51 1.174 -1.266
+		}
+		Sphere {
+		    radius	1.4
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.9 0.14 0.14
+		    diffuseColor	0.9 0.14 0.14
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	3.302 -1.267 -0.73
+		}
+		Sphere {
+		    radius	1.4
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.9 0.14 0.14
+		    diffuseColor	0.9 0.14 0.14
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	1.193 -2.492 0.415
+		}
+		Sphere {
+		    radius	1.4
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.9 0.14 0.14
+		    diffuseColor	0.9 0.14 0.14
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	1.167 1.501 1.098
+		}
+		Sphere {
+		    radius	1.4
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.764 1.344 -1.473
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.859 -0.427 -1.646
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	3.681 1.982 -0.8
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	2.112 -2.384 0.173
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	0.242 1.547 1.322
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	    Separator {
+		Material {
+		    ambientColor	0.8 0.8 0.8
+		    diffuseColor	0.8 0.8 0.8
+		    specularColor	0.5 0.5 0.5
+		    shininess	0.7
+		}
+		Translation {
+		    translation	-3.39 2.009 0.79
+		}
+		Sphere {
+		    radius	1.2
+		}
+	    }
+	}
+    }
+}

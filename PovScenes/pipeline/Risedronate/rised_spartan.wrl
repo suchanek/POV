@@ -1,0 +1,1177 @@
+#VRML V1.0 ascii
+Separator {
+DEF SceneInfo Info { 
+string "WebLab Viewer" 
+} 
+DEF Title Info {  
+string "molecule-name-here" 
+} 
+DEF Viewer Info { 
+string "examiner" 
+} 
+# Default Settings 
+NormalBinding { value PER_VERTEX_INDEXED } 
+MaterialBinding { value OVERALL } 
+ShapeHints { 
+vertexOrdering UNKNOWN_ORDERING 
+shapeType UNKNOWN_SHAPE_TYPE 
+faceType CONVEX 
+} 
+DEF BackgroundColor Info { 
+string "0.00 0.00 0.00" 
+} 
+Material { 
+ambientColor 0.2 0.2 0.2 
+diffuseColor 1 1 1 
+specularColor 0.8 0.8 0.8 
+shininess 0.2 
+} 
+ 
+MatrixTransform { 
+matrix   1.000000 0.000000 -0.000000 0.0
+         0.000000 1.000000 0.000000 0.0
+         -0.000000 -0.000000 1.000000 0.0
+         -2.400315 -1.564586 1.065479 1.0
+} 
+ 
+DEF  mat_143_143_255 Material {
+diffuseColor 0.561 0.561 1.000
+} 
+
+Separator {
+Transform {
+translation -3.557067 1.178042 0.411810 
+} 
+FontStyle { 
+size 0.640000 
+family SANS 
+} 
+
+AsciiText { 
+string [  "+1",] 
+justification LEFT 
+} 
+} 
+
+DEF  mat_240_0_0 Material {
+diffuseColor 0.941 0.000 0.000
+} 
+
+Separator {
+Transform {
+translation 0.349065 -2.162817 0.444366 
+} 
+FontStyle { 
+size 0.640000 
+family SANS 
+} 
+
+AsciiText { 
+string [  "-1",] 
+justification LEFT 
+} 
+} 
+
+DEF  mat_255_255_0 Material {
+diffuseColor 1.000 1.000 0.000
+} 
+
+Separator {
+Transform {
+translation 2.400315 1.564586 -0.815479 
+} 
+FontStyle { 
+size 0.640000 
+family SANS 
+} 
+
+AsciiText { 
+string [  "-1",] 
+justification LEFT 
+} 
+} 
+
+DEF  mat_146_146_146 Material {
+diffuseColor 0.573 0.573 0.573
+} 
+
+Separator {
+Transform {
+translation -1.575744 0.333267 -0.940777 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+DEF sphere Sphere {} 
+} 
+
+Separator {
+Transform {
+translation -2.263848 -0.747000 -1.414868 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+Separator {
+Transform {
+translation -3.606933 -0.850196 -1.206582 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+Separator {
+Transform {
+translation -4.240328 0.152073 -0.525397 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_143_143_255 
+
+Separator {
+Transform {
+translation -3.557067 1.178042 -0.088190 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation -2.272541 1.300313 -0.270028 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+Separator {
+Transform {
+translation -0.091041 0.405894 -1.148118 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+DEF  mat_255_255_255 Material {
+diffuseColor 1.000 1.000 1.000
+} 
+
+Separator {
+Transform {
+translation -1.780738 -1.464639 -1.916465 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+Separator {
+Transform {
+translation -4.117489 -1.640951 -1.544280 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+Separator {
+Transform {
+translation -5.225479 0.100641 -0.361590 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+Separator {
+Transform {
+translation -1.794185 2.104671 0.082368 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation 0.750785 0.361110 0.152371 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 0.349065 -2.162817 -0.055634 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation 3.565842 0.055629 1.270056 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 1.584048 -1.248860 1.724043 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+DEF  mat_255_128_0 Material {
+diffuseColor 1.000 0.502 0.000
+} 
+
+Separator {
+Transform {
+translation 0.517046 -1.064530 0.949918 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation -1.490058 -1.285816 1.332017 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation -0.700718 -0.924590 1.823161 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 2.315902 0.477401 -0.287731 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 0.457534 1.434027 1.029384 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation 0.180931 -0.367173 -1.721180 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+Separator {
+Transform {
+translation 0.115038 1.261790 -1.622431 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 2.713288 -0.701524 -0.766560 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_255_255_0 
+
+Separator {
+Transform {
+translation 2.400315 1.564586 -1.315479 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 3.105924 0.869433 0.924341 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation 0.987827 1.357146 1.821398 
+scaleFactor 0.400000 0.400000 0.400000 
+} 
+USE sphere 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation -1.919796 -0.206867 -1.177822 
+rotation  0 1 0  -2.174089 
+} 
+Transform {
+rotation  1 0 0  2.483205 
+scaleFactor 0.200000 1.365734 0.200000 
+} 
+DEF cylinder Cylinder { 
+parts SIDES 
+height 1
+} 
+} 
+
+Separator {
+Transform {
+translation -2.104850 0.118255 -0.961550 
+rotation  0 1 0  -2.174089 
+} 
+Transform {
+rotation  1 0 0  2.483205 
+scaleFactor 0.040000 0.204860 0.040000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -2.345686 -0.259839 -1.127482 
+rotation  0 1 0  -2.174088 
+} 
+Transform {
+rotation  1 0 0  2.483205 
+scaleFactor 0.040000 0.204860 0.040000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -1.924142 0.816790 -0.605402 
+rotation  0 1 0  -0.804443 
+} 
+Transform {
+rotation  1 0 0  0.785466 
+scaleFactor 0.200000 1.367702 0.200000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -2.106462 0.460985 -0.769870 
+rotation  0 1 0  -0.804443 
+} 
+Transform {
+rotation  1 0 0  0.785466 
+scaleFactor 0.040000 0.205155 0.040000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -2.350341 0.799451 -0.535107 
+rotation  0 1 0  -0.804443 
+} 
+Transform {
+rotation  1 0 0  0.785466 
+scaleFactor 0.040000 0.205155 0.040000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -0.833392 0.369581 -1.044448 
+rotation  0 1 0  1.709551 
+} 
+Transform {
+rotation  1 0 0  1.522388 
+scaleFactor 0.200000 1.500869 0.200000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -2.935390 -0.798598 -1.310725 
+rotation  0 1 0  -1.416942 
+} 
+Transform {
+rotation  1 0 0  1.646578 
+scaleFactor 0.200000 1.363052 0.200000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -2.697054 -0.466883 -1.170515 
+rotation  0 1 0  -1.416942 
+} 
+Transform {
+rotation  1 0 0  1.646578 
+scaleFactor 0.040000 0.204458 0.040000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -3.167134 -0.503001 -1.097615 
+rotation  0 1 0  -1.416942 
+} 
+Transform {
+rotation  1 0 0  1.646578 
+scaleFactor 0.040000 0.204458 0.040000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -2.143070 -0.926410 -1.540267 
+rotation  0 1 0  2.374966 
+} 
+Transform {
+rotation  1 0 0  2.371202 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation -1.901515 -1.285229 -1.791066 
+rotation  0 1 0  2.374965 
+} 
+Transform {
+rotation  1 0 0  2.371202 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation -3.923630 -0.349061 -0.865989 
+rotation  0 1 0  -0.749060 
+} 
+Transform {
+rotation  1 0 0  0.748102 
+scaleFactor 0.200000 1.367387 0.200000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -3.499688 -0.350213 -0.950442 
+rotation  0 1 0  -0.749060 
+} 
+Transform {
+rotation  1 0 0  0.748102 
+scaleFactor 0.040000 0.205108 0.040000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -3.721376 0.000581 -0.712027 
+rotation  0 1 0  -0.749061 
+} 
+Transform {
+rotation  1 0 0  0.748102 
+scaleFactor 0.040000 0.205108 0.040000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -3.734572 -1.047885 -1.291006 
+rotation  0 1 0  -2.155166 
+} 
+Transform {
+rotation  1 0 0  2.482838 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation -3.989850 -1.443262 -1.459855 
+rotation  0 1 0  -2.155166 
+} 
+Transform {
+rotation  1 0 0  2.482837 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation -4.069512 0.408565 -0.416095 
+rotation  0 1 0  1.001567 
+} 
+Transform {
+rotation  1 0 0  0.669006 
+scaleFactor 0.200000 0.653951 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_143_143_255 
+
+Separator {
+Transform {
+translation -3.727882 0.921550 -0.197492 
+rotation  0 1 0  1.001567 
+} 
+Transform {
+rotation  1 0 0  0.669005 
+scaleFactor 0.200000 0.653951 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation -3.717334 0.343749 -0.520932 
+rotation  0 1 0  1.001566 
+} 
+Transform {
+rotation  1 0 0  0.669005 
+scaleFactor 0.040000 0.196185 0.040000 
+} 
+USE cylinder 
+} 
+
+USE mat_143_143_255 
+
+Separator {
+Transform {
+translation -3.478192 0.702838 -0.367910 
+rotation  0 1 0  1.001566 
+} 
+Transform {
+rotation  1 0 0  0.669005 
+scaleFactor 0.040000 0.196185 0.040000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation -4.486616 0.139215 -0.484445 
+rotation  0 1 0  -1.406028 
+} 
+Transform {
+rotation  1 0 0  1.622251 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation -4.979191 0.113499 -0.402542 
+rotation  0 1 0  -1.406028 
+} 
+Transform {
+rotation  1 0 0  1.622252 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_143_143_255 
+
+Separator {
+Transform {
+translation -3.235936 1.208610 -0.133650 
+rotation  0 1 0  1.711422 
+} 
+Transform {
+rotation  1 0 0  1.476826 
+scaleFactor 0.200000 0.651541 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation -2.593673 1.269745 -0.224568 
+rotation  0 1 0  1.711422 
+} 
+Transform {
+rotation  1 0 0  1.476826 
+scaleFactor 0.200000 0.651541 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_143_143_255 
+
+Separator {
+Transform {
+translation -3.134541 0.903544 -0.322872 
+rotation  0 1 0  1.711422 
+} 
+Transform {
+rotation  1 0 0  1.476826 
+scaleFactor 0.040000 0.195462 0.040000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation -2.684956 0.946338 -0.386515 
+rotation  0 1 0  1.711422 
+} 
+Transform {
+rotation  1 0 0  1.476826 
+scaleFactor 0.040000 0.195462 0.040000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -2.152952 1.501402 -0.181929 
+rotation  0 1 0  0.935875 
+} 
+Transform {
+rotation  1 0 0  0.636201 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation -1.913774 1.903582 -0.005731 
+rotation  0 1 0  0.935875 
+} 
+Transform {
+rotation  1 0 0  0.636201 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation 0.329872 0.383502 -0.497874 
+rotation  0 1 0  0.574485 
+} 
+Transform {
+rotation  1 0 0  1.599697 
+scaleFactor 0.200000 1.549822 0.200000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation -0.023048 0.212627 -1.291384 
+rotation  0 1 0  2.698475 
+} 
+Transform {
+rotation  1 0 0  2.454458 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation 0.112938 -0.173906 -1.577914 
+rotation  0 1 0  2.698475 
+} 
+Transform {
+rotation  1 0 0  2.454457 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation -0.039521 0.619868 -1.266696 
+rotation  0 1 0  2.731721 
+} 
+Transform {
+rotation  1 0 0  0.543514 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation 0.063518 1.047816 -1.503853 
+rotation  0 1 0  2.731720 
+} 
+Transform {
+rotation  1 0 0  0.543514 
+scaleFactor 0.200000 0.500000 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation 1.142064 0.390183 0.042345 
+rotation  0 1 0  1.844912 
+} 
+Transform {
+rotation  1 0 0  1.499390 
+scaleFactor 0.200000 0.814985 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 1.924623 0.448328 -0.177705 
+rotation  0 1 0  1.844912 
+} 
+Transform {
+rotation  1 0 0  1.499390 
+scaleFactor 0.200000 0.814985 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation 0.692350 0.004700 0.351758 
+rotation  0 1 0  -0.285089 
+} 
+Transform {
+rotation  1 0 0  2.613796 
+scaleFactor 0.200000 0.825101 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 0.575481 -0.708120 0.750531 
+rotation  0 1 0  -0.285089 
+} 
+Transform {
+rotation  1 0 0  2.613796 
+scaleFactor 0.200000 0.825101 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_146_146_146 
+
+Separator {
+Transform {
+translation 0.677472 0.629339 0.371624 
+rotation  0 1 0  -0.322687 
+} 
+Transform {
+rotation  1 0 0  0.711359 
+scaleFactor 0.200000 0.708219 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 0.530847 1.165798 0.810130 
+rotation  0 1 0  -0.322687 
+} 
+Transform {
+rotation  1 0 0  0.711359 
+scaleFactor 0.200000 0.708219 0.200000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation 0.391061 -1.888245 0.195754 
+rotation  0 1 0  0.165524 
+} 
+Transform {
+rotation  1 0 0  0.748206 
+scaleFactor 0.200000 0.749264 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 0.475051 -1.339102 0.698530 
+rotation  0 1 0  0.165524 
+} 
+Transform {
+rotation  1 0 0  0.748206 
+scaleFactor 0.200000 0.749264 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation 3.450862 0.259080 1.183628 
+rotation  0 1 0  -2.215377 
+} 
+Transform {
+rotation  1 0 0  0.615412 
+scaleFactor 0.200000 0.498327 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 3.220903 0.665982 1.010770 
+rotation  0 1 0  -2.215377 
+} 
+Transform {
+rotation  1 0 0  0.615412 
+scaleFactor 0.200000 0.498327 0.200000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation 1.278478 -1.288817 1.563531 
+rotation  0 1 0  -2.198441 
+} 
+Transform {
+rotation  1 0 0  1.431867 
+scaleFactor 0.080000 0.665534 0.080000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 0.744977 -1.196652 1.176469 
+rotation  0 1 0  -2.198441 
+} 
+Transform {
+rotation  1 0 0  1.431867 
+scaleFactor 0.080000 0.665534 0.080000 
+} 
+USE cylinder 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 1.356117 -1.116739 1.497492 
+rotation  0 1 0  -2.198441 
+} 
+Transform {
+rotation  1 0 0  1.431867 
+scaleFactor 0.080000 0.665534 0.080000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 0.822616 -1.024573 1.110430 
+rotation  0 1 0  -2.198441 
+} 
+Transform {
+rotation  1 0 0  1.431867 
+scaleFactor 0.080000 0.665534 0.080000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation 0.212605 -1.029545 1.168229 
+rotation  0 1 0  -0.948694 
+} 
+Transform {
+rotation  1 0 0  1.477680 
+scaleFactor 0.200000 0.752510 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation -0.396277 -0.959575 1.604850 
+rotation  0 1 0  -0.948694 
+} 
+Transform {
+rotation  1 0 0  1.477680 
+scaleFactor 0.200000 0.752510 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation -1.292723 -1.195510 1.454803 
+rotation  0 1 0  1.014198 
+} 
+Transform {
+rotation  1 0 0  1.200196 
+scaleFactor 0.200000 0.498690 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation -0.898053 -1.014897 1.700375 
+rotation  0 1 0  1.014198 
+} 
+Transform {
+rotation  1 0 0  1.200196 
+scaleFactor 0.200000 0.498690 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 2.506530 0.220084 -0.423801 
+rotation  0 1 0  2.448877 
+} 
+Transform {
+rotation  1 0 0  2.655945 
+scaleFactor 0.080000 0.666532 0.080000 
+} 
+USE cylinder 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 2.705223 -0.369378 -0.663216 
+rotation  0 1 0  2.448877 
+} 
+Transform {
+rotation  1 0 0  2.655946 
+scaleFactor 0.080000 0.666532 0.080000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 2.323967 0.145255 -0.391075 
+rotation  0 1 0  2.448877 
+} 
+Transform {
+rotation  1 0 0  2.655946 
+scaleFactor 0.080000 0.666532 0.080000 
+} 
+USE cylinder 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 2.522660 -0.444208 -0.630490 
+rotation  0 1 0  2.448877 
+} 
+Transform {
+rotation  1 0 0  2.655946 
+scaleFactor 0.080000 0.666532 0.080000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 2.337005 0.749197 -0.544668 
+rotation  0 1 0  3.059643 
+} 
+Transform {
+rotation  1 0 0  0.758980 
+scaleFactor 0.200000 0.749227 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_0 
+
+Separator {
+Transform {
+translation 2.379212 1.292789 -1.058542 
+rotation  0 1 0  3.059643 
+} 
+Transform {
+rotation  1 0 0  0.758981 
+scaleFactor 0.200000 0.749227 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_128_0 
+
+Separator {
+Transform {
+translation 2.513407 0.575409 0.015287 
+rotation  0 1 0  0.577635 
+} 
+Transform {
+rotation  1 0 0  1.306187 
+scaleFactor 0.200000 0.749490 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_240_0_0 
+
+Separator {
+Transform {
+translation 2.908418 0.771425 0.621323 
+rotation  0 1 0  0.577636 
+} 
+Transform {
+rotation  1 0 0  1.306187 
+scaleFactor 0.200000 0.749490 0.200000 
+} 
+USE cylinder 
+} 
+
+Separator {
+Transform {
+translation 0.590107 1.414807 1.227387 
+rotation  0 1 0  0.589996 
+} 
+Transform {
+rotation  1 0 0  1.651282 
+scaleFactor 0.200000 0.478123 0.200000 
+} 
+USE cylinder 
+} 
+
+USE mat_255_255_255 
+
+Separator {
+Transform {
+translation 0.855254 1.376366 1.623394 
+rotation  0 1 0  0.589996 
+} 
+Transform {
+rotation  1 0 0  1.651282 
+scaleFactor 0.200000 0.478124 0.200000 
+} 
+USE cylinder 
+} 
+
+} 

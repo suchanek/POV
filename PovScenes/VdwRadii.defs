@@ -1,0 +1,125 @@
+###                 
+### VdwRadii.defs   
+###                 
+### This file contains the van der Waals radius for each atomic number.
+### The data values have been copied from the files used by Sybyl; from
+### the Sybyl 5.4 files $TA_ROOT/sybylbase/tables/ascii/ATOM_DEF and
+### and $TA_ROOT/sybylbase/tables/metals/atom_def.
+###                 
+### Notes:          
+###   Several atomic numbers map to more than one sybyl atom type and
+###   therefore more than one van der Waals radius.  In these cases, the
+###   SMALLEST radius among the possible radii has been used.
+###                 
+###   Dummy atom types have not been mapped.
+###                 
+###   "2.80" was arbitrarily selected as the radius for element 104.
+###                 
+###   The espsilon values for use in molecular mechanics energy calculations
+###   were taken from the TRIPOS force field TAFF. Elements not in the TAFF
+###   were arbitratily given a value of 0.1.
+                    
+1	1.08        .042
+2	1.3         .1
+3	0.6         .4
+4	1.11        .1
+5	1.3         .1
+6	1.52        .107
+7	1.45        .095
+8	1.36        .116
+9	1.3         .109
+10	1.6         .1
+11	0.95        .4
+12	0.86        .1
+13	2.05        .042
+14	2.1         .042
+15	1.75        .314
+16	1.7         .314
+17	1.65        .314
+18	1.9         .1
+19	1.33        .4
+20	.99         .4
+.121	1.75        .1
+22	1.75        .1
+23	1.75        .1
+24	1.70        .1
+25	1.70        .1
+26	1.65        .1
+27	1.55        .1
+28	1.60        .1
+29	1.50        .1
+30	1.50        .1
+31	1.90        .1
+32	1.94        .1
+33	1.92        .1
+34	1.90        .1
+35	1.8         .434
+36	2.0         .1
+37	1.66        .1
+38	1.70        .1
+39	1.80        .1
+40	1.70        .1
+41	1.65        .1
+42	1.65        .1
+43	1.65        .1
+44	1.65        .1
+45	1.65        .1
+46	1.60        .1
+47	1.70        .1
+48	1.60        .1
+49	1.90        .1
+50	2.20        .1
+51	2.20        .1
+52	2.10        .1
+53	2.05        .623
+54	2.20        .1
+55	1.88        .1
+56	1.49        .1
+57	2.99        .1
+58	2.90        .1
+59	2.91        .1
+60	2.90        .1
+61	2.87        .1
+62	2.87        .1
+63	3.25        .1
+64	2.87        .1
+65	2.83        .1
+66	2.82        .1
+67	2.82        .1
+68	2.80        .1
+69	2.79        .1
+70	3.09        .1
+71	2.75        .1
+72	2.29        .1
+73	2.13        .1
+74	2.07        .1
+75	2.04        .1
+76	2.15        .1
+77	2.16        .1
+78	1.75        .1
+79	1.70        .1
+80	1.50        .1
+81	2.00        .1
+82	2.00        .1
+83	2.42        .1
+84	2.42        .1
+85	2.55        .1
+86	2.71        .1
+87	2.39        .1
+88	2.50        .1
+89	2.99        .1
+90	2.87        .1
+91	2.61        .1
+92	2.50        .1
+93	2.48        .1
+94	2.54        .1
+95	2.74        .1
+96	2.75        .1
+97	2.80        .1
+98	2.80        .1
+99	2.80        .1
+100	2.80        .1
+101	2.80        .1
+102	2.80        .1
+103	2.80        .1
+104	2.80        .1
